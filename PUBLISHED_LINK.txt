@@ -1,0 +1,8 @@
+REWIRE WOLFSBURG — THIRD HOME WOLFSBURG
+========================================
+
+Live URL:
+https://deployables-webapp.vercel.app
+
+Vercel Project:  deployables-webapp
+Deploy command:  vercel deploy --prod --yes
