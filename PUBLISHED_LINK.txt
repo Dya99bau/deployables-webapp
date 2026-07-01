@@ -1,8 +1,14 @@
 REWIRE WOLFSBURG — THIRD HOME WOLFSBURG
 ========================================
 
-Live URL:
+Live URL (Vercel):
 https://deployables-webapp.vercel.app
 
 Vercel Project:  deployables-webapp
 Deploy command:  vercel deploy --prod --yes
+
+Live URL (GitHub Pages):
+https://dya99bau.github.io/deployables-webapp/
+
+GitHub Repo:     https://github.com/Dya99bau/deployables-webapp
+Deploy command:  npm run deploy   (builds with base=/deployables-webapp/ and publishes dist/ to the gh-pages branch)
